@@ -1,0 +1,29 @@
+=> 
+[[32m#<Article:0x00007fe645b08f50[0m
+  id: [34m[1m2[0m,
+  title: [31m[1m"[0m[31mSOLVED: Crazy man making blog entries[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mWe fixed it. Feel better?[0m[31m[1m"[0m,
+  created_at: Thu, 28 Mar 2024 19:39:19.072316000 UTC +00:00,
+  updated_at: Tue, 02 Apr 2024 19:44:02.020710000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x00007fe6461abe20[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mA new Expedition[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mIn the olden days I went all the way to Antarctica. Don't believe me? Go eat seals[0m[31m[1m"[0m,
+  created_at: Thu, 28 Mar 2024 19:39:59.823037000 UTC +00:00,
+  updated_at: Tue, 02 Apr 2024 19:46:59.415577000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x00007fe6461abba0[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mMEMEMEME[0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mI am so excited to say my name[0m[31m[1m"[0m,
+  created_at: Tue, 02 Apr 2024 19:23:00.476136000 UTC +00:00,
+  updated_at: Tue, 02 Apr 2024 19:23:00.476136000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m,
+ [32m#<Article:0x00007fe6461ab7e0[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mwho is that [0m[31m[1m"[0m,
+  body: [31m[1m"[0m[31mI tink I taw.... I tink i taw a puddy cat!!![0m[31m[1m"[0m,
+  created_at: Tue, 09 Apr 2024 19:34:18.724910000 UTC +00:00,
+  updated_at: Tue, 09 Apr 2024 19:34:18.724910000 UTC +00:00,
+  status: [36m[1mnil[0m[32m>[0m]
